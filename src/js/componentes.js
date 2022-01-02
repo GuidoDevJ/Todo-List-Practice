@@ -94,7 +94,7 @@ $filter.addEventListener('click',e=>{
     }
 })
 
-let contador = 0;
+
 
 
 
